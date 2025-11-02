@@ -155,9 +155,9 @@ This business plan showcases our competencies in:
 
 ## 👥 Team
 
-**Heba Shalayel**   
 **Layal Al-Husseini**   
 **Mozon EL-Shawwa** 
+**Heba Shalayel**   
 ---
 
 ## 📄 Document Structure
